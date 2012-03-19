@@ -1,0 +1,13 @@
+h1 {
+	font-size: 200%;
+	color: #88dd88;
+
+}
+h2.post-title {
+	font-size: 150%;
+	color: #003d4c;
+}
+.created {
+	color: gray;
+	font-size: 60%;
+}
